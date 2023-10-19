@@ -1,8 +1,12 @@
-# player
+# Player
 
 ## Project setup
 ```
 npm install
+```
+
+```
+npm i json-server
 ```
 
 ### Compiles and hot-reloads for development
